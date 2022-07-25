@@ -1,0 +1,26 @@
+.container {
+  border: 5px solid rgba(23, 23, 170, 0.506);
+  padding: 15px;
+  margin: 10px;
+  width: 150px;
+  height: 320px;
+}
+.user-image {
+  height: 100px;
+  width: 150px;
+  border-radius: 10px;
+}
+.user-name {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(12, 119, 189);
+} 
+.user-detail__label {
+  margin-bottom: 0;
+}
+.user-detail__item {
+  margin: 0;
+  font-weight: bold;
+  font-size: 20px;
+}
